@@ -1,21 +1,15 @@
 <div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/>  
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>  
 
 ---
 
 ### Hi, I'm Abdulrahman Attia 👋  
-A passionate **Frontend Developer** specialized in building responsive and dynamic web apps using **Vue.js** and modern JavaScript tools.
+A passionate **Frontend Developer** focused on building modern, real-time web applications using **Vue.js** and a powerful stack of frontend and backend technologies.
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com)](https://linkedin.com)  
-[![Telegram Badge](https://img.shields.io/badge/Telegram-grey?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/yourusername)](https://t.me/yourusername)
-
-</div>
-
----
-
-### 🛠️ Tech Stack
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=netlify)](https://portfolio-abdo-atia01.netlify.app)  
+[![Email Badge](https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:atia61035@gmail.c)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
